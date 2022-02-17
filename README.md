@@ -32,4 +32,4 @@ print(inverse)
 ## OUTPUT:
 ![output](./img1.png)
 
-## RESULT:
+## RESULT:thus the program is executed successfully.
